@@ -1,0 +1,22 @@
+ECOMMERCE-TEST/
+|-- pages/
+|   |-- products/
+|       |-- [id].js
+            |-- index.js (ProductDetail)
+|   |-- Cart.js
+    |-- CartPage.js
+    |-- Products.js
+|-- src/
+|   |-- components/
+|       |-- Header.js
+|       |-- dummyData.js
+|       |-- Navbar.js
+|       |-- Cart.js
+    |-- app/
+        |-page.js(my index/home page)
+|     
+|-- public/images/
+|   |-- product1.jpg
+|   |-- product2.jpg
+|   |-- ... (other images)
+|-- ... (Other Next.js files and folders)
